@@ -3,11 +3,13 @@ Code and Schematic for an Arduino powered motor drive used on a Scotch mount for
 
 Instructable: TBD
 
+File          | Description
+------------- | -------------
+arduino-scotch-mount-motor.ino  | Arduino Motor Control Code 
+arduino-scotch-mount-motor.fzz  | Fritzing Breadboard Schematic
+arduino-scotch-mount-motor_partlist  | names and links to electronics parts used
 
 
-
-
-Author: Kevin M. Kingsbury
-Website: http://kevinkingsbury.com
+Author: Kevin M. Kingsbury (http://kevinkingsbury.com)
 
 

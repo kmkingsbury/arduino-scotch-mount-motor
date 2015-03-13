@@ -1,7 +1,7 @@
 # arduino-scotch-mount-motor
 Code and Schematic for an Arduino powered motor drive used on a Scotch mount for Astrophotography.
 
-Instructable: TBD
+Instructable: http://www.instructables.com/id/Arduino-Powered-Scotch-Mount-Star-Tracker-for-Astr
 
 File          | Description
 ------------- | -------------
